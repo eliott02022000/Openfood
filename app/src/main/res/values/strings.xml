@@ -1,3 +1,4 @@
+
 <resources>
     <string name="app_name">Open Food Facts</string>
     <string name="tab_plug">Fiche</string>
@@ -16,4 +17,8 @@
     <string name="info_vegetarian">Végétarien</string>
     <string name="info_quantity">Quantité</string>
     <string name="info_sold">Vendu</string>
+    <string name="title_scan">Mes scans</string>
+    <string name="empty_scan_screen">Vous n avez pas encore scanné de produit</string>
+    <string name="begin">Commencer</string>
+    <string name="info_nutriscore">%1$s</string>
 </resources>

@@ -10,6 +10,12 @@
         <item name="android:fontFamily">@font/avenir</item>
         <item name="fontFamily">@font/avenir</item>
 
+
+    </style>
+
+    <style name="MyTextViewStyle">
+        <item name="android:textColor">@color/blue_light</item>
+        <item name="android:textSize">20sp</item>
     </style>
 
 </resources>
